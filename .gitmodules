@@ -1,0 +1,3 @@
+[submodule "ekmett-propagators"]
+	path = ekmett-propagators
+	url = https://github.com/ekmett/propagators.git
